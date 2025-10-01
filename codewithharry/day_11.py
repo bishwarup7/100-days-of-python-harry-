@@ -1,3 +1,5 @@
+#strings in python
+
 name = "harry"
 friend = "johnas"
 anotherfriend = "martha"
